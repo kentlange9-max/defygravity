@@ -1,6 +1,0 @@
-2026-05-11 20:35:38.345 [error] #198: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-05-11 20:35:41.753 [error] #199: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-05-11 20:36:17.441 [error] #200: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-05-11 20:36:21.706 [error] #201: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
-2026-05-12 15:27:06.839 [error] #221: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_IO_SUSPENDED
-2026-05-12 16:18:45.780 [error] #246: https://browser.events.data.microsoft.com/OneCollector/1.0/?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_IO_SUSPENDED
