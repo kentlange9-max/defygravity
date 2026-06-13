@@ -18,7 +18,7 @@ DefyGravity is distributed as a pre-compiled `app.asar` file. To install it, you
 1. **Close Antigravity:** Ensure the Antigravity app is completely closed.
 2. **Locate your Antigravity Installation:** 
    Navigate to the resources folder of your Antigravity app. On Windows, this is typically located at:
-   `C:\Users\Kentl\AppData\Local\Programs\Antigravity\resources\`
+   `C:\Users\USER\AppData\Local\Programs\Antigravity\resources\`
 3. **Backup the Original:** Rename the existing `app.asar` to `app.asar.backup` (just in case you ever want to revert).
 4. **Install DefyGravity:** Copy the modded `app.asar` from this repository and paste it into the `resources` directory.
 5. **Launch & Enjoy:** Open Antigravity. Open the DefyGravity UI settings panel and start customizing!
